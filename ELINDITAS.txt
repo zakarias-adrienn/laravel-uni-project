@@ -1,0 +1,7 @@
+php artisan serve
+--- localhost 8000-es port
+
+admin, aki rendeléseket tud elfogadni:
+admin@szerveroldali.hu
+password
+
